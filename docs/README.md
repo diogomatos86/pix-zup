@@ -2,7 +2,7 @@
 
 Teste Técnico ZUP - Technical Writer
 
-Prazo de entrega: 27/06/2023 às 16h. 
+Prazo de entrega: 28/06/2023.
 
 É possível visualizar a documentação gerada pelo Docsify através do [link](https://diogomatos86.github.io/pix-zup/#/).
 
