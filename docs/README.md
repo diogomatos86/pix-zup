@@ -6,7 +6,7 @@ Prazo de entrega: 28/06/2023.
 
 É possível visualizar a documentação gerada pelo Docsify através do [link](https://diogomatos86.github.io/pix-zup/#/).
 
-A documentação do link acima já está estruturada, estilizada e online.
+A documentação do link acima, já está estruturada, estilizada e online.
 
 - [Introdução](index.md)
 - [Tudo que você precisa saber sobre o Pix](pages/pix.md)
